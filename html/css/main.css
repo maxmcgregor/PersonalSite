@@ -1,0 +1,11 @@
+body {
+  background-color: lightgrey;
+  color: navy;
+}
+
+#headline {
+  font-family: fantasy;
+  color: limegreen;
+  background-color: magenta;
+
+}
